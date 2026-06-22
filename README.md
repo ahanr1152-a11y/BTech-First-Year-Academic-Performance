@@ -1,1 +1,2 @@
 # BTech-First-Year-Academic-Performance
+Academic record and performance summary of my First Year B.Tech (Artificial Intelligence & Machine Learning) at DCRUST, Murthal. Successfully completed the First Year with a Semester 2 SGPA of 7.67, showcasing consistent effort across core engineering subjects including Mathematics-II, Engineering Chemistry, Analog & Digital Electronics, Electrical Engineering, Economics for Engineers, and Discrete Structures.
