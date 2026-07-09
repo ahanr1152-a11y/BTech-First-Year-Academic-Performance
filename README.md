@@ -28,12 +28,9 @@ This repository showcases my **B.Tech First Year Academic Performance**. It refl
 
 # 🚀 Skills Developed During First Year
 
-- Java Programming
 - C Programming
-- Database Management System (DBMS)
-- Computer Organization & Architecture
+- Discrete Structures
 - Problem Solving
-- Object-Oriented Programming (Basics)
 - HTML, CSS & JavaScript
 - Git & GitHub
 
@@ -43,7 +40,7 @@ This repository showcases my **B.Tech First Year Academic Performance**. It refl
 
 Apart from academics, I actively focused on improving my practical skills by:
 
-- 💻 Building Java console-based projects
+- 💻Buildingg strong foundation for programming
 - 🌐 Developing web development projects
 - 🏆 Participating in hackathons and coding events
 - 📖 Learning AI & Machine Learning fundamentals
